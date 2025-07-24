@@ -34,6 +34,7 @@ This project extracts and unifies mechanical property data from academic papers 
    cp .env.example .env
    # Edit .env and add your OpenAI API key:
    # OPENAI_API_KEY=sk-proj-xxxxx...
+   # OPENAI_MODEL=your Model
    ```
 
 6. Run the extraction script:
