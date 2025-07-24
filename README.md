@@ -6,7 +6,7 @@ This project extracts and unifies mechanical property data from academic papers 
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/SecretOfDecember04/crossref_data_extraction.git>
    cd crossref-data-extraction
    ```
 
